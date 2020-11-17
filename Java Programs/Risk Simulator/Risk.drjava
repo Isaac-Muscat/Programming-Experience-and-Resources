@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20120818-r5686">
+  <project autorefresh="false" main="RiskSimulator" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="RiskGame.java" package="" timestamp="18-Jan-2020 16:32:30">
+        <select from="183" to="183"/>
+        <scroll column="52" row="0"/>
+      </file>
+      <file name="RiskTeam.java" package="" timestamp="18-Jan-2020 11:16:58">
+        <select from="183" to="183"/>
+        <scroll column="52" row="0"/>
+      </file>
+      <file name="RiskSimulator.java" package="" timestamp="19-Jan-2020 16:37:27">
+        <select from="183" to="183"/>
+        <scroll column="52" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
