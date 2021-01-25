@@ -27,28 +27,6 @@ Test="https://www.walmart.ca/en/ip/PS5-Game-Console-Handle-Protector-Silicone-Ha
 Real="https://www.walmart.ca/en/ip/playstation5-console/6000202198562"
 DELAY = 0
 
-window = tk.Tk()
-
-tk.Label(text="Email").pack()
-email = tk.Entry()
-email.pack()
-
-
-
-
-tk.Label(text="First Name").pack()
-fname = tk.Entry()
-fname.pack()
-
-FNAME = fname.get()
-EMAIL = email.get()
-
-
-window.mainloop()
-
-print(EMAIL)
-print(FNAME)
-
 
 
 driver = webdriver.Chrome(PATH)
