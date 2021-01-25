@@ -7,7 +7,7 @@ from selenium.webdriver.common.keys import Keys
 import tkinter as tk
 import time
 
-
+#Could use tkinter to get user info before purchasing PS5 from walmart
 
 
 EMAIL = "bjbl"
