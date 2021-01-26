@@ -1,0 +1,1 @@
+This folder contains project ideas and code which come from blogs from pyimagesearch run by Adrian Rosebrock. His blog site can be found here: https://www.pyimagesearch.com/.
